@@ -1,0 +1,42 @@
+Shell Scripting:
+--------------
+we have discussed about the declaring variable 
+1) Declaring the variable
+2) Calling function
+3) function within the function
+4) passing arguments to the function
+4) positional parameters
+5) $? ,$#, $@, $$
+6) Conditional statements
+
+syntax
+
+ if [statements] ; then
+ else 
+  [statements]
+ fi
+
+syntax
+ if [statement]
+ then
+  [statement]
+ else [ statment]
+ fi
+
+While syntax
+
+while[condition]
+do 
+[statement]
+done
+
+for [condition]
+do 
+[statement]
+done
+
+for((; ;))
+do
+[statement]
+done
+
