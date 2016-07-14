@@ -1,0 +1,101 @@
+14thJulyClass:
+--------------
+Today we will see what is virtualization?
+Types of virtualization 
+Type1 and type-2 virtualization
+
+Virtualization:
+---------------
+For simple application we have to use at least 4 to 5 server
+1) Application server 
+2) Build server
+3) Deployment server
+4) Database server 
+
+Application server 
+------------------
+Application software 
+Operating system
+HDD 
+
+
+Build Server
+------------
+Build Software 
+Operating System
+HDD
+
+Deployment Server
+------------
+Build Software 
+Operating System
+HDD
+
+
+Database Server
+------------
+Build Software 
+Operating System
+HDD
+
+
+Backup Servers:
+---------------
+Application server 
+------------------
+Application software 
+Operating system
+HDD 
+
+
+Build Server
+------------
+Build Software 
+Operating System
+HDD
+
+Deployment Server
+------------
+Build Software 
+Operating System
+HDD
+
+
+Database Server
+------------
+Build Software 
+Operating System
+HDD
+
+
+
+what are the disadvantages of conventional and traditional systems.?
+
+1) Backup server we will use only when main servers are crashed or not up and running
+it will happen only 
+
+
+--------------------
+How can we optimize the process?
+
+we can buy one hardware and on top it we can take virtualized software 
+
+Microsoft-Hyper-v
+Vmware -Vsphere or vCenter
+AWS-AWS
+Fusion 
+Oracle virtualBox
+
+-------------------------------------------
+cluster Computing:
+
+
+------------------
+
+
+
+
+
+
+
+ 
